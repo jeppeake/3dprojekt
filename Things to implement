@@ -1,0 +1,22 @@
+Saker att Implementera:
+
+Core:
+Skeletal animation
+	
+Geometry:
+Implementing Existing Model-Format
+Heightmap Terrain
+
+Texturing and Lighting:
+Normal mapping
+
+Projection Techniques:
+Shadow mapping
+
+Acceleration Techniques:
+View frustum culling against a quadtree
+Front to back rendering
+
+Other Techniques:
+Particle system with billboard particles:
+Make a small game:

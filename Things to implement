@@ -1,0 +1,40 @@
+Saker att Implementera:
+
+	Core(1)
+Deferred Rendering
+Skeletal animation	P
+	
+Geometry(2)
+Implementing Existing Model-Format		P
+Displacement Mapping	
+Heightmap Terrain	P
+Level Of Detail (lod)
+Morph-Based animation
+
+	Texturing and Lighting(1)
+Normal mapping	P
+Screen space ambient occlusion 
+Blend mapping
+
+	Projection Techniques(1)
+Shadow mapping	P
+Shadow Volumes
+Dynamic cubic environment mapping
+Dynamic Paraboloid mapping
+
+	Acceleration Techniques
+View frustum culling against a quadtree	P
+Front to back rendering	P
+Occlusion culling	
+Backface culling using Geometry shader
+
+	Other Techniques(2)
+*Använder man en Compute shader så behöver man bara en
+Particle system with billboard particles	P
+Gaussian filter
+ Bilateral filter
+Mouse Picking
+Screen-Space anti aliasing
+Water-effect
+Glow-effect
+Make a small game	P
